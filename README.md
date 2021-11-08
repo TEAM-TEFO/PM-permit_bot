@@ -9,5 +9,6 @@
 - `REDIS_URI` - **Redis endpoint URL, from redislabs.com**
 - `REDIS_PASSWORD` - **Redis endpoint password, from redislabs.com**
 ## Deploy to Heroku
+#### Fork The Repository Then click on below button of your forked repository.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
